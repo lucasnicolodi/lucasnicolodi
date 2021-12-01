@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lucasnicolodi
+- 👀 I’m interested in learn some HTML/CSS n JS.
+- 🌱 I’m currently learning with some CSS focused codes.
+- 💞️ I’m looking to collaborate on something i'm useful at, pls.
+- 📫 You can reach me on lucas_nicolodi@hotmail.com
