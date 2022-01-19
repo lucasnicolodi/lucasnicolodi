@@ -9,7 +9,31 @@
 - 📫 Sou lucas.nicolodi em todas as redes sociais. Sinta-se livre para me contatar!
 </h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnicolodi&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnicolodi&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center"> GitHub Stats </h2>
 
+<div class="github-stats" align="center">
+<a href="https://github.com/lucasnicolodi">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasnicolodi&show_icons=true&theme=vue-dark&hide=issues">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnicolodi&layout=compact&theme=vue-dark"> 
+</a>
+</div>
+
+---
+
+<div class="linguages-programacao" align="center">
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+</div>
+
+##
+
+<div class="github-commit-animation">
+  ![Snake animation](https://github.com/lucasnicolodi/lucasnicolodi/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+---
