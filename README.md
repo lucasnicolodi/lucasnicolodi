@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @lucasnicolodi
-- 👀 I’m interested in learn some HTML/CSS n JS.
-- 🌱 I’m currently learning with some CSS focused codes.
-- 💞️ I’m looking to collaborate on something i'm useful at, pls.
-- 📫 You can reach me on lucas_nicolodi@hotmail.com
+<h1>Olá! Sou Lucas Nicolodi. 🌠</h1>
+
+<h3>
+  
+- 📚 Tenho interesse e estou aprendendo as principais linguagens para Front-End.😊
+  
+- 📟 Também tenho conhecimento em aplicações e algoritmos com Python, visto que faço parte de Iniciação Científica em estudos de grafos (UFSC). 🧮💻
+  
+- 📫 Sou lucas.nicolodi em todas as redes sociais. Sinta-se livre para me contatar!
+</h3>
